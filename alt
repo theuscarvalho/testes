@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "root:teste" | chpasswd > /dev/null 2>&1
+echo "root:teste" | sudo chpasswd > /dev/null 2>&1
