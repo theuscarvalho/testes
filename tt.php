@@ -1,8 +1,7 @@
 <?php
 
 
-exec('tar -czf projetos.tar.gz addons/');
+exec('ssh -help');
 
-echo "OK";
 
 ?>
